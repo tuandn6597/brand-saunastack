@@ -1,0 +1,108 @@
+{
+  "brand": "saunastack",
+  "data": {
+    "byKeyword": [
+      {
+        "keyword": "saunastack",
+        "mentions": 3
+      },
+      {
+        "keyword": "home sauna",
+        "mentions": 3
+      },
+      {
+        "keyword": "infrared sauna",
+        "mentions": 4
+      }
+    ],
+    "mentions": {
+      "total": 10
+    },
+    "posts": [
+      {
+        "createdUtc": 1754265342,
+        "id": "t3_2212f5a7",
+        "score": 8,
+        "subreddit": "Wellness",
+        "title": "saunastack — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/Wellness/comments/t3_2212f5a7/"
+      },
+      {
+        "createdUtc": 1754065507,
+        "id": "t3_32865015",
+        "score": 40,
+        "subreddit": "Pets",
+        "title": "home sauna — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/Pets/comments/t3_32865015/"
+      },
+      {
+        "createdUtc": 1754080811,
+        "id": "t3_654b8c4a",
+        "score": 20,
+        "subreddit": "SkincareAddiction",
+        "title": "infrared sauna — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/SkincareAddiction/comments/t3_654b8c4a/"
+      },
+      {
+        "createdUtc": 1754217497,
+        "id": "t3_93e43a98",
+        "score": 26,
+        "subreddit": "30PlusSkinCare",
+        "title": "saunastack — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/30PlusSkinCare/comments/t3_93e43a98/"
+      },
+      {
+        "createdUtc": 1754359578,
+        "id": "t3_968b315b",
+        "score": 44,
+        "subreddit": "Wellness",
+        "title": "infrared sauna — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/Wellness/comments/t3_968b315b/"
+      },
+      {
+        "createdUtc": 1754222719,
+        "id": "t3_b294b4e9",
+        "score": 10,
+        "subreddit": "30PlusSkinCare",
+        "title": "infrared sauna — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/30PlusSkinCare/comments/t3_b294b4e9/"
+      },
+      {
+        "createdUtc": 1754296073,
+        "id": "t3_c265564c",
+        "score": 11,
+        "subreddit": "Wellness",
+        "title": "infrared sauna — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/Wellness/comments/t3_c265564c/"
+      },
+      {
+        "createdUtc": 1754270959,
+        "id": "t3_cbb0886",
+        "score": 29,
+        "subreddit": "Pets",
+        "title": "saunastack — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/Pets/comments/t3_cbb0886/"
+      },
+      {
+        "createdUtc": 1754346256,
+        "id": "t3_e5b7ca96",
+        "score": 4,
+        "subreddit": "HomeImprovement",
+        "title": "home sauna — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/HomeImprovement/comments/t3_e5b7ca96/"
+      },
+      {
+        "createdUtc": 1754282835,
+        "id": "t3_fa76be77",
+        "score": 23,
+        "subreddit": "Wellness",
+        "title": "home sauna — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/Wellness/comments/t3_fa76be77/"
+      }
+    ]
+  },
+  "period": "2026-W34",
+  "schemaVersion": "v1",
+  "source": "reddit",
+  "status": "ok"
+}

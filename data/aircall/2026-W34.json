@@ -1,0 +1,26 @@
+{
+  "brand": "saunastack",
+  "data": {
+    "avgDurationSeconds": 282,
+    "callCount": 3,
+    "dispositions": [
+      {
+        "count": 1,
+        "disposition": "escalated"
+      },
+      {
+        "count": 1,
+        "disposition": "follow-up"
+      },
+      {
+        "count": 1,
+        "disposition": "resolved"
+      }
+    ],
+    "totalDurationSeconds": 846
+  },
+  "period": "2026-W34",
+  "schemaVersion": "v1",
+  "source": "aircall",
+  "status": "ok"
+}

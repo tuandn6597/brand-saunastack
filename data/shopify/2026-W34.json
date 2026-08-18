@@ -1,0 +1,55 @@
+{
+  "brand": "saunastack",
+  "data": {
+    "catalog": [
+      {
+        "productType": "Wellness",
+        "sku": "SS-100",
+        "title": "SaunaStack Serum",
+        "variantId": "gid://shopify/ProductVariant/SS-100"
+      },
+      {
+        "productType": "Wellness",
+        "sku": "SS-200",
+        "title": "SaunaStack Night Cream",
+        "variantId": "gid://shopify/ProductVariant/SS-200"
+      },
+      {
+        "productType": "Wellness",
+        "sku": "SS-300",
+        "title": "SaunaStack Starter Kit",
+        "variantId": "gid://shopify/ProductVariant/SS-300"
+      }
+    ],
+    "orders": {
+      "count": 7,
+      "revenue": 1599.89,
+      "units": 25
+    },
+    "refunds": {
+      "amount": 0,
+      "count": 0
+    },
+    "unitsBySku": [
+      {
+        "revenue": 106.05,
+        "sku": "SS-100",
+        "units": 3
+      },
+      {
+        "revenue": 344.72,
+        "sku": "SS-200",
+        "units": 8
+      },
+      {
+        "revenue": 1149.12,
+        "sku": "SS-300",
+        "units": 14
+      }
+    ]
+  },
+  "period": "2026-W34",
+  "schemaVersion": "v1",
+  "source": "shopify",
+  "status": "ok"
+}
