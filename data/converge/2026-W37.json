@@ -1,0 +1,34 @@
+{
+  "brand": "saunastack",
+  "data": {
+    "adSpend": 4648.89,
+    "attributedRevenue": 20435.8,
+    "attributionModel": "blended",
+    "blendedRoas": 4.4,
+    "byChannel": [
+      {
+        "attributedRevenue": 4840.12,
+        "channel": "Google",
+        "roas": 4.34,
+        "spend": 1116.48
+      },
+      {
+        "attributedRevenue": 8732.14,
+        "channel": "Meta",
+        "roas": 5.14,
+        "spend": 1700.3
+      },
+      {
+        "attributedRevenue": 6863.54,
+        "channel": "TikTok",
+        "roas": 3.75,
+        "spend": 1832.11
+      }
+    ],
+    "currency": "USD"
+  },
+  "period": "2026-W37",
+  "schemaVersion": "v1",
+  "source": "converge",
+  "status": "ok"
+}

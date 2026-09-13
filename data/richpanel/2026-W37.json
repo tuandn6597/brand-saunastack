@@ -1,0 +1,42 @@
+{
+  "brand": "saunastack",
+  "data": {
+    "ticketVolume": 5,
+    "topTags": [
+      {
+        "count": 2,
+        "tag": "refund"
+      },
+      {
+        "count": 1,
+        "tag": "account"
+      },
+      {
+        "count": 1,
+        "tag": "billing"
+      },
+      {
+        "count": 1,
+        "tag": "shipping"
+      }
+    ],
+    "topThemes": [
+      {
+        "count": 2,
+        "theme": "delivery delay"
+      },
+      {
+        "count": 2,
+        "theme": "usage question"
+      },
+      {
+        "count": 1,
+        "theme": "refund"
+      }
+    ]
+  },
+  "period": "2026-W37",
+  "schemaVersion": "v1",
+  "source": "richpanel",
+  "status": "ok"
+}
